@@ -1,0 +1,16 @@
+﻿using JewelryStore.Domain.Entities.Jewelry;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace JewelryStore.Application.Interfaces
+{
+    public interface IUserDetailRepository
+    {
+        Task AddAsync(UserDetail userDetail);
+        Task UpdateAsync(UserDetail userDetail);
+        Task DeleteAsync(int id);
+    }
+}

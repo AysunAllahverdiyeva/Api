@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\bin\Debug\net8.0\JewelryStore.Domain.deps.json
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\bin\Debug\net8.0\JewelryStore.Domain.dll
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\bin\Debug\net8.0\JewelryStore.Domain.pdb
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\JewelryStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\JewelryStore.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\JewelryStore.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\JewelryStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\JewelryStore.Domain.dll
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\refint\JewelryStore.Domain.dll
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\JewelryStore.Domain.pdb
+C:\Users\LENOVO\source\repos\JewelryStore.App\core\JewelryStore.Domain\obj\Debug\net8.0\ref\JewelryStore.Domain.dll
